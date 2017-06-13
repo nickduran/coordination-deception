@@ -1,7 +1,7 @@
 Coordination in Deceptive Conversations (PLOS ONE)
 ===================
 
-Sample code and data for conducting analyses to evaluate multi-modal coordination during interpersonal deception. Code written for MATLAB and R. IN PROGRESS: UPDATES FORTHCOMING CONTINGENT ON REVIEWERS' COMMENTS
+Sample code and data for conducting analyses to evaluate multi-modal coordination during interpersonal deception. Code written for MATLAB and R.
 
 
 
